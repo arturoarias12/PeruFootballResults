@@ -46,4 +46,4 @@ The data was gathered from several sources, including but not limited to Sofasco
 All data was manually collected via web search.
 
 ## License
-This project is licensed under CC BY-NC-SA 4.0. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under a Custom License. See the [LICENSE](LICENSE) file for more details.
