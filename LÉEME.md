@@ -46,4 +46,4 @@ Los datos fueron recopilados de varias fuentes, incluidas, pero no limitadas a, 
 Todos los datos fueron recopilados manualmente mediante búsqueda en la web.
 
 ## Licencia
-Este proyecto está licenciado bajo CC BY-NC-SA 4.0. Consulte el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está licenciado bajo una Licencia Personalizada. Consulte el archivo [LICENSE](LICENSE) para más detalles.
