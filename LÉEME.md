@@ -39,11 +39,11 @@ Tres partidos específicos no fueron considerados en esta base de datos por las 
 | 2011-06-28  | Senegal       | Senegal envió un equipo alternativo, posiblemente sub-23. |
 | 2013-12-28  | País Vasco    | El País Vasco no es reconocido por la FIFA. |
 
-## Provenance
+## Procedencia de los datos
 
 Los datos fueron recopilados de varias fuentes, incluidas, pero no limitadas a, Sofascore, Google, Wikipedia, FIFA, perufootball.org, Transfermarkt, DeChalaca.com, Facebook, BESOCCER, 11v11.com, Partidos de la Roja, etc.
 
 Todos los datos fueron recopilados manualmente mediante búsqueda en la web.
 
-## License
+## Licencia
 Este proyecto está licenciado bajo CC BY-NC-SA 4.0. Consulte el archivo [LICENSE](LICENSE) para más detalles.
